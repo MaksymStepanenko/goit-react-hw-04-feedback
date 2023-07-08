@@ -1,0 +1,19 @@
+.btn {
+  padding: 5px;
+  width: 80px;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  cursor: pointer;
+  background-color: aliceblue;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.list {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  padding-left: 0;
+}
